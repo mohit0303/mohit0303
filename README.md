@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit0303
 - 👀 I’m interested in ...cloud and devops
 - 🌱 I’m currently learning ...devops
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web3,blockchain IOT,Devops,Cloud
 - 📫 How to reach me ...mohitmishra3333@gmail.com
 
 <!---
