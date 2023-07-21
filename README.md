@@ -1,4 +1,4 @@
-💻 Currently, I am working as Lead Cloud Architect @FocalX (Danish Company🇩🇰)
+💻 Currently, I am working as Lead Cloud Architect @FocalX
 
 🏅I bring with me around 9 years of experience working with multiple teams & various projects. I have build Chatbots with features that helps customers getting things in just few seconds on Whtsapp,FB etc. I have worked extensively on web services, API's, Data crawling and Analysis.
 
